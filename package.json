@@ -34,7 +34,7 @@
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@types/chai": "^4.2.21",
     "@types/mocha": "^8.2.3",
-    "@types/node": "^16.4.1",
+    "@types/node": "^18.13.0",
     "@typescript-eslint/eslint-plugin": "^4.28.3",
     "@typescript-eslint/parser": "^4.28.3",
     "chai": "^4.3.4",
